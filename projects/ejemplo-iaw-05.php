@@ -5,6 +5,14 @@
     <title>TABLA MULTIPLICAR ALEATORIA</title>
 </head>
 <body>
+<form method="post">
+
+  <div>
+
+    <label for="numero">Introduce un número:</label>
+    <input type="text" name="numero">
+
+  </div>
 
 <?php
     echo "<table border=\"1\">";

@@ -2,7 +2,6 @@
 
     //Create random variable
     $aleatorio = rand (0, 1);
-    echo $aleatorio;
 
     //Create if
 
