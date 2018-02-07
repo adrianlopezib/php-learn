@@ -21,11 +21,6 @@
 
 </form>
 
-<script>
-function alerta() {
-    alert("Inserta un valor");
-}
-</script>
 
 <?php
     
@@ -53,12 +48,7 @@ function alerta() {
         }
 
         echo "</table>";
-    }else {
-
-
-
-    }
-    
+    }    
     
 ?>
 
