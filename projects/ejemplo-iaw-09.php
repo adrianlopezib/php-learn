@@ -25,7 +25,7 @@
 <?php
     
     
-    $numero = (int) $_POST["numero"];
+    $numero = (int) $_POST["numero" ];
 
     if  (!empty($numero) && is_int($numero)){
 
